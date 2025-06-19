@@ -58,6 +58,8 @@ pip install -r requirements.txt
 
 3. Run the notebook:
 jupyter notebook Klasifikasi_Gambar_Hewan_CNN_Animal10.ipynb
+
+
 ✍️ Author
 Wilma Nur Fatimah
 Machine Learning Enthusiast
